@@ -1,0 +1,41 @@
+[General]
+LastUsedVersion=210800
+
+[ImageView]
+ThumbnailSplitterSizes=581,166
+
+[MainWindow]
+1920x1080 screen: Height=932
+1920x1080 screen: Width=1263
+1920x1080 screen: XPosition=260
+1920x1080 screen: YPosition=53
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABO8AAAN/AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/thenandnow.jpg
+File10[$e]=$HOME/Downloads/WhatsApp Image 2023-07-20 at 9.18.38 PM (1).jpeg
+File2[$e]=$HOME/Downloads/Toby Ord - The Edges of Our Universe.pdf
+File3[$e]=$HOME/Downloads/topass5.pdf
+File4[$e]=$HOME/Downloads/V. I. Arnold - Dynamics, Statistics and Projective Geometry of Galois Fields.pdf
+File5[$e]=$HOME/Downloads/Watch_battery_receipt1.jpg
+File6[$e]=$HOME/Downloads/WhatsApp Image 2023-07-20 at 9.18.37 PM.jpeg
+File7[$e]=$HOME/Downloads/Zapponi - What is a Dessin dEnfant .pdf
+File8[$e]=$HOME/Downloads/WhatsApp Image 2023-07-20 at 9.18.38 PM.jpeg
+File9[$e]=$HOME/Downloads/WhatsApp Image 2023-07-20 at 9.18.38 PM (2).jpeg
+Name1[$e]=thenandnow.jpg
+Name10[$e]=WhatsApp Image 2023-07-20 at 9.18.38 PM (1).jpeg
+Name2[$e]=Toby Ord - The Edges of Our Universe.pdf
+Name3[$e]=topass5.pdf
+Name4[$e]=V. I. Arnold - Dynamics, Statistics and Projective Geometry of Galois Fields.pdf
+Name5[$e]=Watch_battery_receipt1.jpg
+Name6[$e]=WhatsApp Image 2023-07-20 at 9.18.37 PM.jpeg
+Name7[$e]=Zapponi - What is a Dessin dEnfant .pdf
+Name8[$e]=WhatsApp Image 2023-07-20 at 9.18.38 PM.jpeg
+Name9[$e]=WhatsApp Image 2023-07-20 at 9.18.38 PM (2).jpeg
+
+[SideBar]
+InformationSplitterSizes=206,247
+SideBarSplitterSizes=223,962
